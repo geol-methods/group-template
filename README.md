@@ -33,7 +33,7 @@ is for shared work: data, exploratory code, and your research plan.
 - **A teammate reviews** and merges. Don't merge your own PRs unless
   the team agrees.
 - If Git complains about conflicts, check the
-  [Git troubleshooting guide](https://smithlabdurham.github.io/methods/materials/git-troubleshooting.html).
+  [Git troubleshooting guide](https://geol-methods.github.io/materials/git-troubleshooting.html).
 
 ## Adding data
 
@@ -44,4 +44,4 @@ contains, where it came from, and when you downloaded it.
 ## Course site
 
 All exercises, hints, and solutions:
-**[smithlabdurham.github.io/methods](https://smithlabdurham.github.io/methods/)**
+**[geol-methods.github.io](https://geol-methods.github.io/)**
